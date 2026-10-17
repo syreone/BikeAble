@@ -34,13 +34,13 @@ synthetic.
 1. Download the code:
 
    ```bash
-   git clone https://github.com/diischm/hacktoberfest2026.git
+   git clone https://github.com/syreone/BikeAble.git
    ```
 
 2. Go into the folder:
 
    ```bash
-   cd hacktoberfest2026
+   cd BikeAble
    ```
 
 3. Install everything (takes a minute or two):
