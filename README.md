@@ -1,5 +1,7 @@
 # BikeAble
 
+*Built with [@diischm](https://github.com/diischm) at Hacktoberfest 2026. Mirrored from [the original repo](https://github.com/diischm/hacktoberfest2026).*
+
 BikeAble shows cyclists in Skopje a map of road conditions and hazards. You can report a problem
 with a photo, AI describes what's in the photo, and you can compare routes to pick the most
 comfortable one. It's a hackathon prototype for "Fix My City"; demo reports are labelled as
